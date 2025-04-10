@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+**/.env
+venv/
+env/
+.venv/
+.ENV/
+venv310/
+
+# PyInstaller
+*.manifest
+*.spec
