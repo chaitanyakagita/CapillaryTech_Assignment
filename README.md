@@ -1,5 +1,5 @@
 # CapillaryTech Documentation Chatbot
-This project is a chatbot built to assist developers and users by answering questions related to CapillaryTech documentation using an AI-powered Retrieval Augmented Generation (RAG) system.
+This project is to built a chatbot that can assist developers and users by answering questions related to CapillaryTech documentation using an AI-powered Retrieval Augmented Generation (RAG) system.
 
 ## Technologies Used
 
@@ -43,7 +43,7 @@ This project is a chatbot built to assist developers and users by answering ques
 I have recorded a video from my laptop demonstrating the features and functionality of the application. You can watch the video [https://drive.google.com/file/d/1nJqePZ7uRbkmhlGcfMbpDeLsamw08cJa/view?usp=sharing](https://drive.google.com/file/d/1nJqePZ7uRbkmhlGcfMbpDeLsamw08cJa/view?usp=sharing)
 
   
-## Given Link
+## Given Documentation Link
    [https://docs.capillarytech.com/](https://docs.capillarytech.com/)
     
 
